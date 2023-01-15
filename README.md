@@ -35,7 +35,7 @@ npm i inquirer@8.2.4
 
 ### Repository:
 ```
-https://github.com/louiskgkim/Professional-README-Generator   
+https://github.com/louiskgkim/OOP-Team-Profile-Generator
 ```
 
 ### Demo Video:
@@ -48,7 +48,7 @@ No collaborators for this project. But some references are listed below:
 
 - [Node Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs/)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer/v/8.2.4/)
-- [Professional README Guide]
+
 
 ## License
 
