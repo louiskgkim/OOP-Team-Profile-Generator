@@ -2,7 +2,7 @@
 
 ## Description
 
-Node.js application that helps users generate a professional README file.
+Node.js application that generates a Team Profile for the user.
 
 
 ## Table of Contents
@@ -16,7 +16,9 @@ Node.js application that helps users generate a professional README file.
 ## Installation
 Some files will be needed in order for this generator to operate.
 
+```
 Node.js version 16.16.0: https://nodejs.org/en/blog/release/v16.16.0/
+```
 
 ```
 npm i inquirer@8.2.4
