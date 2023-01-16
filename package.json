@@ -1,0 +1,26 @@
+{
+  "name": "oop-team-profile-generator",
+  "version": "1.0.0",
+  "description": "oop",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiskgkim/OOP-Team-Profile-Generator.git"
+  },
+  "author": "Louis Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiskgkim/OOP-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/louiskgkim/OOP-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.3.1"
+  }
+}
