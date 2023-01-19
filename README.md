@@ -2,7 +2,9 @@
 
 ## Description
 
-Node.js application that generates a Team Profile for the user.
+Node.js application that generates a Team Profile as a HTML webpage for the user. The webpage will display a summary of each person added to the team.
+
+Testing is also done to make sure the code is maintainable.
 
 
 ## Table of Contents
@@ -28,10 +30,10 @@ npm i inquirer@8.2.4
 
 
 
-# Generated README File
+## Generated Team Profile File
 
 
-# Preview of Generated README File
+## Preview of Generated Team Profile File
 
 
 
@@ -50,6 +52,7 @@ No collaborators for this project. But some references are listed below:
 
 - [Node Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs/)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer/v/8.2.4/)
+- [Jest](https://www.npmjs.com/package/jest)
 
 
 ## License
