@@ -1,6 +1,4 @@
 // employee constructor
-const { default: test } = require("node:test");
-const { getMaxListeners } = require("process");
 const Employee = require("../lib/employee");
 
 // create employee object
