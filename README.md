@@ -27,7 +27,7 @@ npm i inquirer@8.2.4
 ```
 
 ## Usage
-
+Use inquirer from your command line to answer questions about your team so that a team profile can be generated. You can also take a look at the demo video further below.
 
 
 ## Generated Team Profile HTML Code
