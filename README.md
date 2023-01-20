@@ -30,10 +30,13 @@ npm i inquirer@8.2.4
 
 
 
-## Generated Team Profile File
+## Generated Team Profile HTML Code
 
 
-## Preview of Generated Team Profile File
+## Preview of Generated Team Profile HTML Page
+
+
+## Template of HTML Page to be Created
 
 
 
