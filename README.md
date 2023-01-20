@@ -31,13 +31,15 @@ npm i inquirer@8.2.4
 
 
 ## Generated Team Profile HTML Code
+![Generated HTML Code](https://user-images.githubusercontent.com/115679155/213612946-e061c3af-7513-44a0-b3b9-d0793a197592.png)
 
 
 ## Preview of Generated Team Profile HTML Page
+<img width="1470" alt="Preview of HTML" src="https://user-images.githubusercontent.com/115679155/213612942-7808d066-7866-49f9-a9ec-550027fe5016.png">
 
 
 ## Template of HTML Page to be Created
-
+![Template of HTML File](https://user-images.githubusercontent.com/115679155/213612923-b9927175-d7be-490f-b6c7-b50755985f85.png)
 
 
 ### Repository:
