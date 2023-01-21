@@ -49,7 +49,7 @@ https://github.com/louiskgkim/OOP-Team-Profile-Generator
 
 ### Demo Video:
 
-- [Demo Video]
+- [Demo Video](https://drive.google.com/file/d/1WouLx7MOlwww64RziDsCyqvOMNucZVvu/view)
 
 ## Credits
 
